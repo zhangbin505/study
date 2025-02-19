@@ -13,7 +13,7 @@
 
 1. 克隆仓库到本地：
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/zhangbin505/study.git
    ```
 2. 浏览文档：进入对应文件夹查看你感兴趣的内容。
 3. 贡献文档：欢迎提交 Pull Request 分享你的资源！
